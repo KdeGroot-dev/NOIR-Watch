@@ -4,6 +4,6 @@ A high-end single-page site for a fictional Swiss watchmaker. Features a transpa
 scroll-driven custom cursor (watch hand that rotates as you scroll), parallax hero, heritage section with editorial image treatment, 
 scroll reveals with sibling stagger, marquee ticker, and scroll progress bar.
 
-**Live demo:** https://kdegroot-dev.github.io/noir-watch/
+**Live demo:** [https://kdegroot-dev.github.io/NOIR-Watch/]
 
 Built with: HTML · CSS · Vanilla JS · Leonardo AI (heritage image)
